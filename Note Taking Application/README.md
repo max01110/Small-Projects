@@ -14,5 +14,5 @@
 - Finally, add the required title or body (or both) value
   - _example: node.js remove --title="this title"_
   
-  ## Coded With:
-  - Coded in Node.js
+## Coded With:
+- Coded in Node.js
