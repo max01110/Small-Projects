@@ -1,6 +1,6 @@
 # Weather App
 
-**Should be available at https://www.funcode.tk/**
+**Should be available at https://crystalcode.tk/**
 
 ## Description
 - This is a simple app that allows you to get the current weather of a given address
