@@ -5,7 +5,7 @@ Small Projects I coded
 
 Node.js
 
-Some of these projects might be included there: https://www.funcode.tk/
+Some of these projects might be included there: http://maximemichet.tk/
 
 More to come!
 
